@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>funf.jpg</file>
+        <file>funfzig.jpg</file>
+        <file>zehn.jpg</file>
+        <file>zwanzig.jpg</file>
+        <file>DBK1.jpg</file>
+        <file>DBK2.jpg</file>
+        <file>CBK.jpg</file>
+        <file>MensaCard.jpg</file>
+        <file>Welcome.jpg</file>
+    </qresource>
+</RCC>

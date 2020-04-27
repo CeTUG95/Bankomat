@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="data/funf.jpg">/Users/tugaycevik/Prog/se2/data/funf.jpg</file>
+<file alias="data/funfzig.jpg">/Users/tugaycevik/Prog/se2/data/funfzig.jpg</file>
+<file alias="data/Klassendiagramm.jpg">/Users/tugaycevik/Prog/se2/data/Klassendiagramm.jpg</file>
+<file alias="data/Sequienzdiagramm.jpg">/Users/tugaycevik/Prog/se2/data/Sequienzdiagramm.jpg</file>
+<file alias="data/Sitzung-Klassendiagramm.jpg">/Users/tugaycevik/Prog/se2/data/Sitzung-Klassendiagramm.jpg</file>
+<file alias="data/Statemaschiene.jpg">/Users/tugaycevik/Prog/se2/data/Statemaschiene.jpg</file>
+<file alias="data/zehn.jpg">/Users/tugaycevik/Prog/se2/data/zehn.jpg</file>
+<file alias="data/zwanzig.jpg">/Users/tugaycevik/Prog/se2/data/zwanzig.jpg</file>
+<file alias="data/logo.png">/Users/tugaycevik/Prog/se2/data/logo.png</file>
+</qresource>
+</RCC>
